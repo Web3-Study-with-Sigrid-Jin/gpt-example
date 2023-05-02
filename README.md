@@ -28,3 +28,4 @@
 ## 읽을 거리
 
 * https://magazine.sebastianraschka.com/p/finetuning-large-language-models
+* https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb
