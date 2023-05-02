@@ -12,6 +12,8 @@
 ## 실습 내용
 
 1. [Fine-tuning & In-Context Learning] Scale AI의 Scrollbook을 활용하여 Few-shot training을 실습해보고, Fine-tuning 모델 생성과의 차이점을 이해한다.
+   * https://spellbook.scale.com/
+   * https://platform.openai.com/docs/guides/fine-tuning
 2. [Indexing] LlamaIndex를 연습해보고 HTML/PDF 등의 파일을 LLM에게 학습시켜본다.
    * https://colab.research.google.com/drive/1BS_HloCRCSDZU06dKCcNXuFVDQJ8yUEr#scrollTo=vigz-lUhx9YJ
 3. [Integration] ChatGPT를 활용한 간단한 추천시스템을 만들어본다.
