@@ -1,4 +1,4 @@
-# SOPT GPT 스터디 3주차
+# SOPT GPT 스터디 3주차 및 4주차
 
 ## 주제
 
@@ -9,7 +9,7 @@
   * Indexing은 많은 분량의 파일이나 데이터를 학습시키기 위한 유용한 방법이다.
 * 스터디 일정: '23. 5. 2 (화) 22:00 ~ 24:00
 
-## 실습 내용
+## 3주차 실습 내용
 
 1. [Fine-tuning & In-Context Learning] Scale AI의 Scrollbook을 활용하여 Few-shot training을 실습해보고, Fine-tuning 모델 생성과의 차이점을 이해한다.
    * https://spellbook.scale.com/
@@ -19,12 +19,14 @@
 3. [Integration] ChatGPT를 활용한 간단한 추천시스템을 만들어본다.
    * https://colab.research.google.com/drive/1BA7YewVUvO9eappNHrW0bYAKYKx_GcgS?usp=sharing
 
-## 선택 과제
+## 4주차 실습 내용
 
 * BabyAGI, SerpAPI 그리고 Streamlit을 활용하여 Todo List 작성과 리서치 수행을 대신해주는 간단한 Agent-GPT를 만들어본다.
   * 저장소 내의 `your-gpt-agent` 디렉토리 완성본을 참고해본다.
-  * 자신만의 Agent-GPT를 만들고, 어떻게 구성했는지 아키텍처를 설명하는 Pull Request를 보낸다. (포크를 해서 자신의 이름을 디렉토리로 만들어 보낸다)
   * https://colab.research.google.com/drive/11w-XCj3f4bT8w2SIMuY9BpZsYwftXLOp#scrollTo=6e0305eb
+
+* Pinecone을 사용하여 장기 기억 애플리케이션을 만들어본다.
+  * https://colab.research.google.com/drive/13wben2cKOAJEEDAUpG3uaEnVifp89FoH#scrollTo=t6eJQg1yVDMT
 
 ## 읽을 거리
 
