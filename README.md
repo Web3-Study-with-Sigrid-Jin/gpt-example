@@ -24,6 +24,7 @@
 * BabyAGI, SerpAPI 그리고 Streamlit을 활용하여 Todo List 작성과 리서치 수행을 대신해주는 간단한 Agent-GPT를 만들어본다.
   * 저장소 내의 `your-gpt-agent` 디렉토리 완성본을 참고해본다.
   * 자신만의 Agent-GPT를 만들고, 어떻게 구성했는지 아키텍처를 설명하는 Pull Request를 보낸다. (포크를 해서 자신의 이름을 디렉토리로 만들어 보낸다)
+  * https://colab.research.google.com/drive/11w-XCj3f4bT8w2SIMuY9BpZsYwftXLOp#scrollTo=6e0305eb
 
 ## 읽을 거리
 
